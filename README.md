@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src=".github/logo.png" alt="Electrify Web Logo" width="200">
+
 # ⚡ Electrify Web
 
 **Transform any website into a native desktop app with one command**
